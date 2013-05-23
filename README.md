@@ -28,7 +28,7 @@ Thats it folks!
 
 ## Thanks
 
-This code was ripped from the `mobile-fu`. :)
+This code was ripped from the `mobile-fu` rubygem. :)
 
 ## Contributing
 
