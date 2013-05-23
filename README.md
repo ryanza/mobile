@@ -26,6 +26,10 @@ Secondly `is_device?('device_type')` which returns `true` or `false` if the stri
 
 Thats it folks!
 
+## Thanks
+
+This code was ripped from the `mobile-fu`. :)
+
 ## Contributing
 
 1. Fork it
